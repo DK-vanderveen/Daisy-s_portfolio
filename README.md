@@ -1,6 +1,4 @@
 
-# Daisy's portefolio
-
 # [Project 1: Passanger Titanic Survival Analyse](http:
 
 This is a project that I did in my first data analytics training, where I use basic skills in data science.
